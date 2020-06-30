@@ -1,0 +1,19 @@
+{
+  "name": "dlocalback",
+  "version": "1.0.0",
+  "description": "This is a project only for a demonstration purpose for a technical interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GetteAlan/dlocalBackend.git"
+  },
+  "author": "Gette Alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GetteAlan/dlocalBackend/issues"
+  },
+  "homepage": "https://github.com/GetteAlan/dlocalBackend#readme"
+}
